@@ -1,0 +1,4 @@
+vikingcoin
+==========
+
+vikingcoin
